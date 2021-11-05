@@ -23,10 +23,15 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
-2. Talk about 3 different things you can do to ensure your website is accessible. 
+Accessibility on the web is about designing websites such that people with different levels of ability and devices can access your application. It requires thinking about various differences in human ability (visual, auditory, color related, finger mobility, etc.) and making the necessary changes to account for those differences.
+2. Talk about 3 different things you can do to ensure your website is accessible.
+You can make sure the color contrast between different elements on a webpage is enough and create visual cues that aren't color based for those that are colorblind. You can use semantic html so that people using screen readers are able to understand the website more clearly. You can add alt tags to images so that those that can't see them are able to know what they are.
 3. How would you explain the concept of a variable to someone new to programming?
+A variable is a container for information, and a way of accessing it easily without having to type it all out. Variables are useful because they can be reassigned and easily fed into processes that deal with data.
 4. What is the purpose of using functions in code?
+Functions are blocks of code that perform tasks. Using functions is important because functions can perform the same task on many different arguments. Instead of writing out a block of code over and over to perform the same function on a large data set you can just create a function then feed each instance of data into it as an argument. 
 5. How do you access a key inside of an object inside of an array?
+Access it with array[index].key
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
